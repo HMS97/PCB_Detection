@@ -1,0 +1,6 @@
+admin,admin,admin,男
+adsdasdas,adasd,sss,男
+2018,jsh,123,男
+201830,jsh,124,男
+20183030,jsh,123,男
+123456,sss,123456,男
